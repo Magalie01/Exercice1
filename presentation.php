@@ -38,7 +38,7 @@
 					</ul>
 				</li>
 				<li><a href="presentation.html">Présentation</a></li>
-				<li><a href="inscription.html">Inscription</a></li>
+				<li><a href="https://magalie01.github.io/formulaire/">Inscription</a></li>
 				<li><a href="Contact.html">Contact</a></li>
 				</ul>
 			</nav>
@@ -79,5 +79,5 @@
 	<div id="wb_Text11" style="position:absolute;left:22px;top:20px;width:885px;height:17px;text-align:center;z-index:4;">
 	<span style="color:#aaa;font-family:Verdana;font-size:17px;">Copyright © 2020 by "</span><span style="color:#FFD700;font-family:Verdana;font-size:17px;"><strong>MOULONGOU NGOMA Magalie </strong></span></div>
 	</div>
-	
+
 </html>
